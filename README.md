@@ -1,3 +1,5 @@
+![Logo de UNAHUR](https://unahur.edu.ar/wp-content/uploads/2021/03/UNAHUR-1.png)
+
 # Programación con objetos I
 
 ## Presentación personal
@@ -14,6 +16,8 @@ Estoy muy emocionado de cursar esta materia y aprender con ustedes.
 
 - Estoy armando un [Goodreads](https://www.goodreads.com/user/show/189055250-tomndc), si les gusta compartir lecturas :).
 - Ahora mismo uso Linux Mint y estoy probando NixOS en un USB stick.
+
+---
 
 ###
 
@@ -36,11 +40,3 @@ Estoy muy emocionado de cursar esta materia y aprender con ustedes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tomndc/tomndc/output/snake.svg" alt="Snake animation" />
-
-###
