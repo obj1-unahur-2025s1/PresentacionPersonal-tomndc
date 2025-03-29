@@ -8,7 +8,7 @@
 
 Mi nombre es Tomás y al igual que varios, estudio en la Tecnicatura Universitaria en Programación. El germen de la computación, en general, arrancó desde muy chico; editando el hex de una ROM en un emulador para cambiar un ítem en un juego, metiendo mano en scripts de VBA, darle estilos en un post de algún foro o usar DOXBox.
 
-En cuanto a mis estudios, comencé en nuestra universidad en 2018, estudiando en el Profesorado de Letras, aunque no concluí (_me vine para esta carrera_) tuve la fortuna y el privilegio de vivir experiencias increíbles, e incluso de ser pasante. En pandemia, comencé a experimentar con una Arduino, y terminé viniendoz para este lado 😋.
+En cuanto a mis estudios, comencé en nuestra universidad en 2018, estudiando en el Profesorado de Letras, aunque no concluí (_me vine para esta carrera_) tuve la fortuna y el privilegio de vivir experiencias increíbles, e incluso de ser pasante. En pandemia, comencé a experimentar con una Arduino, y terminé viniendo para este lado 😋.
 
 Estoy muy emocionado de cursar esta materia y aprender con ustedes.
 
